@@ -32,3 +32,5 @@ Citizen.CreateThread(function()
         end
     end
 end)
+
+---Discord : MIXAS#1234
