@@ -1,7 +1,7 @@
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(3)
-        SetWeaponDamageModifier(0xA2719263, 0.2) -- UNARMED
+        SetWeaponDamageModifier(0xA2719263, 0.2) -- UNARMED Tüm değerleri etkiler
         SetWeaponDamageModifier(0xD8DF3C3C, 0.2) -- KNUCKLE
         SetWeaponDamageModifier(0x1B06D571, 0.35) -- PISTOL
         SetWeaponDamageModifier(0xBFD21232, 0.35) -- SNSPISTOL
